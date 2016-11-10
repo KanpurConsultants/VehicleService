@@ -1,0 +1,91 @@
+D:\SchoolDress\Project\Login\obj\Debug\KC.exe
+D:\SchoolDress\Project\Login\obj\Debug\KC.xml
+D:\SchoolDress\Project\Login\obj\Debug\KC.pdb
+D:\SchoolDress\Release\KC.exe
+D:\SchoolDress\Release\KC.pdb
+D:\SchoolDress\Release\KC.xml
+D:\SchoolDress\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\SchoolDress\Project\Login\obj\Debug\KC.FrmCompany.resources
+D:\SchoolDress\Project\Login\obj\Debug\KC.FrmDivisionSelection.resources
+D:\SchoolDress\Project\Login\obj\Debug\KC.FrmLogin.resources
+D:\SchoolDress\Project\Login\obj\Debug\KC.FrmSiteSelection.resources
+D:\SchoolDress\Project\Login\obj\Debug\KC.MDIMain.resources
+D:\SchoolDress\Project\Login\obj\Debug\KC.Resources.resources
+D:\SchoolDress\Project\Login\obj\Debug\KC.vbproj.GenerateResource.Cache
+E:\Matrix\SchoolDress\Project\Login\obj\Debug\KC.exe
+E:\Matrix\SchoolDress\Project\Login\obj\Debug\KC.xml
+E:\Matrix\SchoolDress\Project\Login\obj\Debug\KC.pdb
+E:\Matrix\HT\Project\Login\obj\Debug\KC.exe
+E:\Matrix\HT\Project\Login\obj\Debug\KC.xml
+E:\Matrix\HT\Project\Login\obj\Debug\KC.pdb
+E:\Matrix\HT\Release\KC.exe
+E:\Matrix\HT\Release\KC.pdb
+E:\Matrix\HT\Release\KC.xml
+E:\Matrix\HT\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+E:\Matrix\HT\Project\Login\obj\Debug\KC.FrmCompany.resources
+E:\Matrix\HT\Project\Login\obj\Debug\KC.FrmDivisionSelection.resources
+E:\Matrix\HT\Project\Login\obj\Debug\KC.FrmLogin.resources
+E:\Matrix\HT\Project\Login\obj\Debug\KC.FrmSiteSelection.resources
+E:\Matrix\HT\Project\Login\obj\Debug\KC.MDIMain.resources
+E:\Matrix\HT\Project\Login\obj\Debug\KC.Resources.resources
+E:\Matrix\HT\Project\Login\obj\Debug\KC.vbproj.GenerateResource.Cache
+D:\Active Project\HT\Project\Login\obj\Debug\KC.exe
+D:\Active Project\HT\Project\Login\obj\Debug\KC.xml
+D:\Active Project\HT\Project\Login\obj\Debug\KC.pdb
+D:\Active Project\HT\Release\KC.exe
+D:\Active Project\HT\Release\KC.pdb
+D:\Active Project\HT\Release\KC.xml
+D:\Active Project\HT\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Project\HT\Project\Login\obj\Debug\KC.FrmCompany.resources
+D:\Active Project\HT\Project\Login\obj\Debug\KC.FrmDivisionSelection.resources
+D:\Active Project\HT\Project\Login\obj\Debug\KC.FrmLogin.resources
+D:\Active Project\HT\Project\Login\obj\Debug\KC.FrmSiteSelection.resources
+D:\Active Project\HT\Project\Login\obj\Debug\KC.MDIMain.resources
+D:\Active Project\HT\Project\Login\obj\Debug\KC.Resources.resources
+D:\Active Project\HT\Project\Login\obj\Debug\KC.vbproj.GenerateResource.Cache
+D:\Active Project\HT\Project\Login\obj\Debug\KC.FrmServerNotFound.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.exe
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.xml
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.pdb
+D:\Active Project\Sample Management\Release\KC.exe
+D:\Active Project\Sample Management\Release\KC.pdb
+D:\Active Project\Sample Management\Release\KC.xml
+D:\Active Project\Sample Management\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmCompany.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmDivisionSelection.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmLogin.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmServerNotFound.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmSiteSelection.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.MDIMain.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.Resources.resources
+D:\Active Project\Sample Management\Project\Login\obj\Debug\KC.vbproj.GenerateResource.Cache
+F:\Arpit\Active Project\Sample Management\Release\KC.exe
+F:\Arpit\Active Project\Sample Management\Release\KC.pdb
+F:\Arpit\Active Project\Sample Management\Release\KC.xml
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmCompany.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmDivisionSelection.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmLogin.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmServerNotFound.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.FrmSiteSelection.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.MDIMain.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.Resources.resources
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.vbproj.GenerateResource.Cache
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.exe
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.xml
+F:\Arpit\Active Project\Sample Management\Project\Login\obj\Debug\KC.pdb
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.exe
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.xml
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.pdb
+D:\Active Project\Medical\Release\KC.exe
+D:\Active Project\Medical\Release\KC.pdb
+D:\Active Project\Medical\Release\KC.xml
+D:\Active Project\Medical\Project\Login\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.FrmCompany.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.FrmDivisionSelection.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.FrmLogin.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.FrmServerNotFound.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.FrmSiteSelection.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.MDIMain.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.Resources.resources
+D:\Active Project\Medical\Project\Login\obj\Debug\KC.vbproj.GenerateResource.Cache

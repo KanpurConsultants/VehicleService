@@ -1,0 +1,68 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255	Ainsley	
+GrpFieldDesc	string	255	Ainsley	
+GrpFieldHead	string	255	Collection	
+DocID	string	255	D1    SO 2011      33	
+LineDocId	string	255	D1    SO 2011      33	
+V_Type	string	255	SO	
+V_Date	date	27/Jan/2012 12:00:00 AM	
+LineV_Date	date	27/Jan/2012 12:00:00 AM	
+LineV_Type	string	255	SO	
+LineReferenceNo	string	255	10380	
+SaleToParty	string	255	D100000002	
+SaleToPartyCode	string	255	SCI	
+SaleToPartyName	string	255	Surya Carpet Inc.,CALHOUN	
+SaleToPartyAdd1	string	255	.  	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10003	
+SaleToPartyCityName	string	255	CALHOUN	
+SaleToPartyState	string	255		
+SaleToPartyCountry	string	255		
+SaleToPartyMobile	string	255		
+ShipToParty	string	255		
+ShipToPartyName	string	255		
+ShipToPartyAdd1	string	255		
+ShipToPartyAdd2	string	255		
+ShipToPartyCity	string	255		
+ShipToPartyCityName	string	255		
+ShipToPartyState	string	255		
+ShipToPartyCountry	string	255		
+Currency	string	255	$	
+Currency_Description	string	255	USD	
+SalesTaxGroupParty	string	255	Export	
+ReferenceNo	string	255	10380	
+PartyOrderNo	string	255	10380	
+PartyOrderDate	date	27/Jan/2012 12:00:00 AM	
+PartyDeliveryDate	date	25/Apr/2012 12:00:00 AM	
+PartyDeliveryTime	string	255		
+TermsAndConditions	string	255		
+Remarks	string	255		
+EntryBy	string	255	sa	
+EntryDate	date	22/Dec/2012 11:09:00 AM	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+Status	string	255	Active	
+ShipmentThrough	string	255		
+PriceMode	string	255		
+Agent	string	255		
+ReferencePartyDocumentNo	string	255	10380	
+ReferencePartyDocumentDate	date	27/Jan/2012 12:00:00 AM	
+OrderType	string	255		
+ReferenceParty	string	255	D100000002	
+ReferencePartyName	string	255	Surya Carpet Inc.	
+ItemDesc	string	255	AIN1000-1616	
+ItemGroupDesc	string	255	Hand Knotted	
+Rate	number	8.15	
+Gross_Amount	number	916.875	
+Freight	number		
+Discount	number	0	
+Other_Charges	number	0	
+Net_Amount	number	916.875	
+Round_Off	number	-0.5	
+Landed_Value	number	916.875	
+Qty	number	50	
+Unit	string	255	Pcs	
+TotalMeasure	number	112.5	
+MeasureUnit	string	255	Sq.Feet	
+Supplier_Code	string	255	NCP	

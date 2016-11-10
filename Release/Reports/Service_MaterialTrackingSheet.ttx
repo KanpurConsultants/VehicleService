@@ -1,0 +1,13 @@
+; Field definition file for table: ADORecordset
+JobCardNo	string	255	13-0002	
+NoOfPanels	number		
+ModelDesc	string	255	Splender Plus	
+RegistrationNo	string	255	UP78-BF0236	
+PartDesc	string	255	HEX BOLT M10X65 IS1364P1-8.8 SS8451S2-Y.	
+Qty	number	1	
+Unit	string	255	Pcs	
+Rate	number	22	
+Amount	number	22	
+MachanicName	string	255	Sonu {E0001}	
+ItemGroupDesc	string	255	Clutch Related	
+ItemCategoryDesc	string	255	Spare Parts	

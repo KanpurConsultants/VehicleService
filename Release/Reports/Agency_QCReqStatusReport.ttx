@@ -1,0 +1,21 @@
+; Field definition file for table: ADORecordset
+SaleQCReqDate	date	06/Dec/2012 12:00:00 AM	
+ItemDesc	string	255	CRD1005-23	
+Qty	number	35	
+Unit	string	255	Pcs	
+TotalMeasure	number	210	
+MeasureUnit	string	255	Sq.Feet	
+SaleQcNo	string	255		
+SaleQcDate	date		
+QCQty	number	0	
+QCMeasure	number	0	
+Party_Code	string	255	SCI	
+SupplierCode	string	255	Navkar Home	
+DocId	string	255	D1 SQREQ 2012      16	
+Sr	number	1	
+V_Type	string	255	SQREQ	
+SaleQCReqRefNo	string	255	1	
+SaleOrderRefNo	string	255	10571	
+LineDocIdSr	string	255	D1 SQREQ 2012      161	
+DaysAfterReq	number	70	
+FailedQty	number	0	

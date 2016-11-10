@@ -1,0 +1,131 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1    SI 2012      44	
+V_Type	string	255	SI	
+V_Prefix	string	255	2012	
+V_Date	date	27/Jul/2012 12:00:00 AM	
+V_No	long	44	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+ReferenceNo	string	255	MH/16	
+Godown	string	255		
+Vendor	string	255		
+SaleToParty	string	255	D100000002	
+SaleToPartyName	string	255	Surya Carpet Inc.	
+SaleToPartyAddress	string	255		
+SaleToPartyCity	string	255	D10003	
+SaleToPartyMobile	string	255	877-275-7847	
+SaleToPartyTinNo	string	255		
+SaleToPartyCstNo	string	255		
+ShipToParty	string	255		
+ShipToPartyName	string	255		
+ShipToPartyAddress	string	255		
+ShipToPartyCity	string	255		
+ShipToPartyMobile	string	255		
+SaleOrder	string	255		
+SaleChallan	string	255		
+Currency	string	255	USD	
+SalesTaxGroupParty	string	255	Export	
+Structure	string	255	EBILL	
+BillingType	string	255		
+Form	string	255		
+FormNo	string	255		
+Transporter	string	255		
+Vehicle	string	255		
+VehicleDescription	string	255		
+Driver	string	255		
+DriverName	string	255		
+DriverContactNo	string	255		
+LrNo	string	255		
+LrDate	date		
+PrivateMark	string	255		
+PortOfLoading	string	255		
+DestinationPort	string	255		
+FinalPlaceOfDelivery	string	255		
+PreCarriageBy	string	255		
+PlaceOfPreCarriage	string	255		
+ShipmentThrough	string	255		
+CreditDays	number	0	
+ReferenceDocId	string	255		
+Remarks	string	255		
+TotalQty	number	870	
+TotalMeasure	number	21186.25	
+TotalAmount	number	21809.52	
+OrderNo	string	255		
+OrderDate	date		
+HeaderRoll	string	255	646-654,1-30,31-60,61-80,81-90,91-110,111-160,161-210,211-230,231-280,281-330,331-390,391-430,431-470,471-490,491-505,506-535,536-635,636-645	
+Item	string	255	D11783	
+Specification	string	255		
+SalesTaxGroupItem	string	255	General	
+DocQty	number		
+Qty	number	30	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	40	
+MeasureUnit	string	255	Sq.Feet	
+ItemInvoiceGroup	string	255		
+TotalDocMeasure	number		
+TotalMeasure1	number	1200	
+Rate	number	1.1	
+Amount	number	1320	
+ReferenceDocId1	string	255		
+LotNo	string	255		
+BaleNo	string	255	1-30	
+ItemName	string	255	COT1931-58	
+Size	string	255		
+DeliveryMeasure	number	1200	
+DeliveryMeasurePerPcs	number		
+MeterArea	number		
+YardArea	number		
+CityName	string	255	CALHOUN, GA-30701	
+Country	string	255	U.S.A.	
+ADD1	string	255	140 Executive Drive	
+ADD2	string	255		
+ADD3	string	255		
+SiteName	string	255	SURYA CARPET INC.	
+CompanyCountry	string	255	India	
+InvoiceItemGroupDesc	string	255		
+TotalBale	number	27	
+Director	string	255		
+Tin	string	255	09715500172	
+IEC	string	255		
+ExiseDivision	string	255		
+PartyOrderNo	string	255	10353	
+BuyerSku	string	255		
+BuyerUpcCode	string	255		
+KnotsPerSQMtr	number	0	
+ItcHsCode	string	255		
+TotalFeetArea	number		
+TotalMeterArea	number		
+H_Gross_Amount	number	21809.52	
+H_Freight_Per	number	0	
+H_Freight	number	0	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	0	
+H_Net_Amount	number	21809.52	
+H_Landed_Value	number	21809.52	
+H_PriceMode	string	255		
+H_CircularNo	string	255		
+H_CircularDate	date		
+H_DescriptionOfGoods	string	255		
+H_PackingMaterialDescription	string	255		
+H_NoOfKindsOfPkgs	number	0	
+H_Compositions	string	255		
+H_OtherReference	string	255		
+H_TermsOfSale	string	255		
+H_NotifyParty	string	255		
+H_TransportInformation	string	255		
+H_OrderNo	string	255		
+H_OrderDate	date		
+H_GrossWeight	number	0	
+H_NetWeight	number	0	
+H_ManualInvoiceTotal	number	0	
+H_VehicleDescription	string	255		
+H_PreCarriageBy	string	255		
+H_PlaceOfPreCarriage	string	255		
+H_DestinationPort	string	255		
+H_PortOfLoading	string	255		
+H_PrivateMark	string	255		
+H_FinalPlaceOfDelivery	string	255		
+H_ShipmentThrough	string	255		

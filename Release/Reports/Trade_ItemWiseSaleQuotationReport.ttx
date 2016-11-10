@@ -1,0 +1,46 @@
+; Field definition file for table: ADORecordset
+DocId	string	255	D1 SRCON 2011      11	
+Sr	number	1	
+Vendor	string	255		
+Item	string	255	D10495	
+Qty	number	1	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	2.25	
+MeasureUnit	string	255	Sq.Feet	
+TotalMeasure	number	2.25	
+Rate	number	1.65	
+Amount	number	1.65	
+NetAmount	number		
+PostingGroupSalesTaxItem	string	255		
+OrdQty	number		
+OrdMeasure	number		
+DispatchQty	number		
+DispatchMeasure	number		
+UID	string	255		
+Remarks	string	255		
+SaleEnquiry	string	255		
+Supplier	string	255	D100000038	
+Specification	string	255		
+DeliveryMeasure	string	255	Sq.Feet	
+SalesTaxGroupItem	string	255		
+DeliveryMeasureMultiplier	number	1	
+TotalDeliveryMeasure	number	2.25	
+Gross_Amount	number	1.65	
+Freight_Per	number	0	
+Freight	number	0	
+Discount_Per	number	0	
+Discount	number	0	
+Other_Charges_Per	number	0	
+Other_Charges	number	0	
+Round_Off	number	0	
+Net_Amount	number	1.65	
+Landed_Value	number	1.65	
+BillingType	string	255		
+RateType	string	255		
+SaleQuotation	string	255	D1 SRCON 2011      11	
+SaleQuotationSr	number	1	
+V_Date	date	01/Apr/2012 12:00:00 AM	
+ReferenceNo	string	255	11	
+SaleToPartyName	string	255	Surya Carpet Inc.,CALHOUN	
+ItemDesc	string	255	KEN1000-1616	
+ItemGroupDesc	string	255	Hand Tufted	

@@ -1,0 +1,55 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1   SQC 2012      10	
+V_Type	string	255	SQC	
+V_Prefix	string	255	2012	
+V_Date	date	29/Nov/2012 12:00:00 AM	
+V_No	long	10	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+ReferenceNo	string	255	1	
+Buyer	string	255	D100000003	
+Supplier	string	255	D100000004	
+Remarks	string	255		
+TotalOrderQty	number	80	
+TotalQty	number		
+TotalOrderMeasure	number	180	
+TotalMeasure	number		
+EntryBy	string	255	SUPER	
+EntryDate	date	29/Nov/2012 11:28:00 AM	
+EntryType	string	255	Add	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+abs	string	255		
+QCBy	string	255	D100000003	
+TotalQCQty	number	80	
+TotalPassedQty	number	80	
+TotalQCMeasure	number	180	
+TotalPassedMeasure	number	180	
+DocId1	string	255	D1   SQC 2012      10	
+Sr	number	1	
+SaleQCReq	string	255	D1 SQREQ 2012      14	
+SaleOrder	string	255	D1    SO 2012       9	
+Item	string	255	D10006	
+OrderQty	number	30	
+QcQty	number	30	
+PassedQty	number	30	
+Unit	string	255	KG	
+MeasurePerPcs	number	2.25	
+MeasureUnit	string	255	Sq.Feet	
+TotalLineOrderMeasure	number	67.5	
+TotalLineQcMeasure	number	67.5	
+TotalLinePassedMeasure	number	67.5	
+LineRemark	string	255		
+UID1	string	255		
+BuyerName	string	255	Abhay Sinha	
+SupplierName	string	255	Rakesh Sharma	
+QcByName	string	255	Abhay Sinha	
+SaleQCReqRefNo	string	255	SQREQ-1	
+SaleOrderRefNo	string	255	SO-1	
+ItemDesc	string	255	Design1-1616	

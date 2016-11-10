@@ -1,0 +1,139 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1    SI 2012      13	
+V_Type	string	255	SI	
+V_Prefix	string	255	2012	
+V_Date	date	24/Sep/2012 12:00:00 AM	
+V_No	long	13	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+ReferenceNo	string	255	1	
+Godown	string	255		
+Vendor	string	255		
+SaleToParty	string	255	D100000002	
+SaleToPartyName	string	255	Surya Carpet Inc.	
+SaleToPartyAddress	string	255		
+SaleToPartyCity	string	255	D10003	
+SaleToPartyMobile	string	255		
+SaleToPartyTinNo	string	255		
+SaleToPartyCstNo	string	255		
+ShipToParty	string	255		
+ShipToPartyName	string	255		
+ShipToPartyAddress	string	255		
+ShipToPartyCity	string	255		
+ShipToPartyMobile	string	255		
+SaleOrder	string	255		
+SaleChallan	string	255		
+Currency	string	255	USD	
+SalesTaxGroupParty	string	255		
+Structure	string	255	SALE	
+BillingType	string	255		
+Form	string	255		
+FormNo	string	255		
+Transporter	string	255		
+Vehicle	string	255		
+VehicleDescription	string	255		
+Driver	string	255		
+DriverName	string	255		
+DriverContactNo	string	255		
+LrNo	string	255		
+LrDate	date		
+PrivateMark	string	255		
+PortOfLoading	string	255		
+DestinationPort	string	255		
+FinalPlaceOfDelivery	string	255		
+PreCarriageBy	string	255		
+PlaceOfPreCarriage	string	255		
+ShipmentThrough	string	255		
+CreditDays	number	0	
+ReferenceDocId	string	255		
+Remarks	string	255		
+TotalQty	number	18	
+TotalMeasure	number	720	
+TotalAmount	number	37.8	
+OrderNo	string	255		
+OrderDate	date		
+HeaderRoll	string	255		
+Item	string	255	D10102	
+Specification	string	255		
+SalesTaxGroupItem	string	255	General	
+DocQty	number		
+Qty	number	8	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	40	
+MeasureUnit	string	255	Sq.Feet	
+ItemInvoiceGroup	string	255		
+TotalDocMeasure	number		
+TotalMeasure1	number	320	
+Rate	number	2.1	
+Amount	number	16.8	
+ReferenceDocId1	string	255		
+LotNo	string	255		
+BaleNo	string	255	1910	
+ItemName	string	255	ETC4918-58	
+Size	string	255		
+DeliveryMeasure	number	320	
+DeliveryMeasurePerPcs	number		
+MeterArea	number		
+YardArea	number		
+CityName	string	255	CALHOUN	
+Country	string	255	GA	
+ADD1	string	255	.	
+ADD2	string	255		
+ADD3	string	255		
+SiteName	string	255	SURYA CARPET PVT. LTD.	
+CompanyCountry	string	255		
+InvoiceItemGroupDesc	string	255		
+TotalBale	number	2	
+RollNoToSort	number	1910	
+Director	string	255		
+Tin	string	255		
+IEC	string	255		
+ExiseDivision	string	255		
+PartyOrderNo	string	255	10399	
+BuyerSku	string	255		
+BuyerUpcCode	string	255		
+KnotsPerSQMtr	number	0	
+ItcHsCode	string	255		
+TotalFeetArea	number		
+TotalMeterArea	number		
+H_Gross_Amount	number	37.8	
+H_Discount_Pre_Tax_Per	number	0	
+H_Discount_Pre_Tax	number	0	
+H_Other_Additions_Pre_Tax_Per	number	0	
+H_Other_Additions_Pre_Tax	number	0	
+H_Sales_Tax_Taxable_Amt	number	37.8	
+H_Vat_Per	number	0	
+H_Vat	number	0	
+H_Sat_Per	number	0	
+H_Sat	number	0	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	-0.2	
+H_Net_Amount	number	37.6	
+H_Landed_Value	number	37.8	
+H_PriceMode	string	255		
+H_CircularNo	string	255		
+H_CircularDate	date		
+H_DescriptionOfGoods	string	255		
+H_PackingMaterialDescription	string	255		
+H_NoOfKindsOfPkgs	number		
+H_Compositions	string	255		
+H_OtherReference	string	255		
+H_TermsOfSale	string	255		
+H_NotifyParty	string	255		
+H_TransportInformation	string	255		
+H_OrderNo	string	255		
+H_OrderDate	date		
+H_GrossWeight	number		
+H_NetWeight	number		
+H_ManualInvoiceTotal	number		
+H_VehicleDescription	string	255		
+H_PreCarriageBy	string	255		
+H_PlaceOfPreCarriage	string	255		
+H_DestinationPort	string	255		
+H_PortOfLoading	string	255		
+H_PrivateMark	string	255		
+H_FinalPlaceOfDelivery	string	255		
+H_ShipmentThrough	string	255		

@@ -1,0 +1,135 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1    SO 2011      70	
+V_Type	string	255	SO	
+V_Prefix	string	255	2011	
+V_Date	date	05/Aug/2011 12:00:00 AM	
+V_No	long	70	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+SaleToParty	string	255	D100000002	
+SaleToPartyName	string	255	Surya Carpet Inc.	
+SaleToPartyAdd1	string	255	140 Executive Drive  	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10003	
+SaleToPartyCityName	string	255	CALHOUN, GA-30701	
+SaleToPartyState	string	255		
+SaleToPartyCountry	string	255		
+SaleToPartyMobile	string	255	877-275-7847	
+SaleToPartyEMail	string	255	meet2arpitg@gmail.com	
+ShipToParty	string	255		
+ShipToPartyName	string	255		
+ShipToPartyAdd1	string	255		
+ShipToPartyAdd2	string	255		
+ShipToPartyCity	string	255		
+ShipToPartyCityName	string	255		
+ShipToPartyState	string	255		
+ShipToPartyCountry	string	255		
+Currency	string	255	$	
+SalesTaxGroupParty	string	255	Export	
+Structure	string	255	EBILL	
+BillingType	string	255		
+ReferenceNo	string	255	10127	
+PartyOrderNo	string	255	10127	
+PartyOrderDate	date	05/Aug/2011 12:00:00 AM	
+PartyDeliveryDate	date	28/Feb/2012 12:00:00 AM	
+PartyDeliveryTime	string	255		
+PartyOrderCancelDate	date		
+TermsAndConditions	string	255		
+Remarks	string	255		
+TotalQty	number	5	
+TotalMeasure	number	251.4285	
+StockTotalMeasure	number	251.4285	
+TotalAmount	number	1584	
+SaleOrder	string	255		
+EntryBy	string	255	rajesh	
+EntryDate	date	19/Jan/2013 9:50:00 AM	
+EntryType	string	255	Add	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+DestinationPort	string	255		
+FinalPlaceOfDelivery	string	255		
+PreCarriageBy	string	255		
+PlaceOfReceipt	string	255		
+ShipmentThrough	string	255		
+BankAcNoBuyer	string	255		
+BankNameBuyer	string	255		
+BankAddressBuyer	string	255		
+PriceMode	string	255		
+Agent	string	255		
+CustomFields	string	255	SO	
+Supplier	string	255		
+SaleToPartyMobile1	string	255	877-275-7847	
+ReferencePartyDocumentNo	string	255	10127	
+ReferencePartyDocumentDate	date	05/Aug/2011 12:00:00 AM	
+OrderType	string	255		
+ReferenceParty	string	255	D100000002	
+DocId1	string	255	D1    SO 2011      70	
+Sr	number	1	
+Vendor	string	255		
+Item	string	255	D11885	
+Specification	string	255		
+PartySKU	string	255		
+PartyUPC	string	255		
+SalesTaxGroupItem	string	255	General	
+Qty	number	2	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	50.2857	
+MeasureUnit	string	255	Sq.Feet	
+TotalMeasure1	number	100.5714	
+SaleOrder1	string	255	D1    SO 2011      70	
+BillingType1	string	255	Measure	
+StockMeasurePerPcs	number		
+StockTotalMeasure1	number		
+Rate	number	6.3	
+Amount	number	633.6	
+ShippedQty	number		
+ShippedMeasure	number		
+ProdOrdQty	number		
+ProdOrdMeasure	number		
+ProdPlanQty	number		
+ProdPlanMeasure	number		
+PurchQty	number		
+PurchMeasure	number		
+ProdIssQty	number		
+ProdIssMeasure	number		
+ProdRecQty	number		
+ProdRecMeasure	number		
+Priority	number		
+DeliveryOrderQty	number		
+DeliveryOrderMeasure	number		
+UID1	string	255		
+DeliveryMeasure	string	255	Sq.Feet	
+DeliveryMeasurePerPcs	number		
+TotalDeliveryMeasure	number	100.5714	
+Supplier1	string	255	D100000030	
+DeliveryMeasureMultiplier	number	1	
+CurrencyDesc	string	255	USD	
+AgentName	string	255		
+SupplierName	string	255	New Carpet	
+SupplierCode	string	255	New Carpet	
+SupplierAdd1	string	255	Bhadohi	
+SupplierAdd2	string	255		
+SupplierCity	string	255	Bhadohi	
+SupplierEmail	string	255	singh.akash409@gmail.com	
+SupplierMobile	string	255		
+ItemDesc	string	255	ANT9702-8RD	
+ItemCode	string	255	ANT9702-8RD	
+ItemFullDesc	string	255	Antolya ANT9702 8`X8`RD	
+H_Gross_Amount	number	1584	
+H_Freight_Per	number	0	
+H_Freight	number	0	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	0	
+H_Net_Amount	number	1584	
+H_Landed_Value	number	1584	
+H_Shipment_Through	string	255		
+H_FOB	string	255		

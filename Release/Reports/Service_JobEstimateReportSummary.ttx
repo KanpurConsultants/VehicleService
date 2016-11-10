@@ -1,0 +1,29 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255	13/05	
+GrpFieldDesc	string	255	May-13	
+GrpFieldHead	string	255	Month	
+DocId	string	255	D1 SQUOT 2013       4	
+V_Date	date	06/May/2013 12:00:00 AM	
+SaleToPartyName	string	255	Shammi Kapoor	
+SaleToPartyAdd1	string	255	Bandra	
+SaleToPartyAdd2	string	255		
+SaleToPartyCityName	string	255		
+SaleToPartyMobile	string	255	934597345	
+ReferenceNo	string	255	13-0001	
+Remarks	string	255		
+RegistrationNo	string	255	UP78-343	
+ModelDesc	string	255	Splender Plus	
+ItemDesc	string	255	OPTION DRG B5.9-230G BS3 CNG-AUTOTRAN	
+Rate	number	1	
+Gross_Amount	number	1	
+Sales_Tax_Taxable_Amt	number	1	
+Vat	number	0.13	
+Sat	number	0.02	
+Discount	number	0	
+Other_Charges	number	0	
+Net_Amount	number	1.3	
+Round_Off	number	0.15	
+Landed_Value	number	1	
+Qty	number	1	
+Unit	string	255	Each	
+JobCardNo	string	255	13-0001	

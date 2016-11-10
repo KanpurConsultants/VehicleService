@@ -1,0 +1,63 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 JCARD 2013      10	
+V_Type	string	255	JCARD	
+V_Prefix	string	255	2013	
+V_Date	date	15/Apr/2013 8:48:00 PM	
+V_No	long	10	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+ManualRefNo	string	255	13-0001	
+Item_Uid	string	255	D10014	
+OwnerName	string	255	Shammi Kapoor	
+OwnerAdd1	string	255	Bandra	
+OwnerAdd2	string	255		
+OwnerCity	string	255	D10001	
+OwnerMobile	string	255	934597345	
+Service_Type	string	255	D10002	
+CouponNo	string	255	4056456	
+EstSparesAmt	number	3000	
+EstLabAmt	number	500	
+EstDelDate	date	16/Apr/2013 2:00:00 PM	
+InsuranceCompany	string	255	D100000045	
+PolicyNo	string	255	345375	
+PolicyDate	date	01/Apr/2013 12:00:00 AM	
+PolicyExpiryDate	date	01/Apr/2014 12:00:00 AM	
+CustomFields	string	255		
+Remarks	string	255	
+	
+EntryBy	string	255	SA	
+EntryDate	date	06/May/2013 11:07:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+CostCenter	string	255	D10001	
+ServiceAdvisor	string	255	D100000046	
+VehicleSrlNo	string	255		
+CustomerId	string	255	CUS0001	
+VehicleUserName	string	255	ARCHIT SINHA	
+Milage	number	3000	
+KeyNo	string	255	KEY3964	
+SoldBy	string	255	D100000047	
+SoldDate	date	21/Apr/2012 12:00:00 AM	
+ServiceAdvisorMobile	string	255	9935	
+OwnerCityName	string	255	Bhadohi	
+Service_TypeDesc	string	255	Major Service	
+ServiceAdvisorName	string	255	Sonu	
+ModelDesc	string	255	Splender Plus	
+RegistrationNo	string	255	UP78-343	
+ChassisNo	string	255		
+EngineNo	string	255		
+SoldByName	string	255	Akash Deep Singh	
+H_Express_Service	string	255	No	
+H_Taxi_NonTaxi	string	255	Taxi	
+H_Scheme_Name	string	255	Na	
+H_Technician	string	255	Anil Singh	
+H_Loyalty_Card_Number	string	255	L03454	
+H_Privilege_Customer	string	255	Abhay Singh	
+H_Cashless_NonCashLess	string	255	C	
+H_No_Of_Panels	string	255	All	

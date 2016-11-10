@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GridSave>
+  <Column>
+    <Name>Model</Name>
+    <Index>0</Index>
+    <Width>86</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Vehicle_Reg_No</Name>
+    <Index>1</Index>
+    <Width>124</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Customer_Name</Name>
+    <Index>2</Index>
+    <Width>127</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Customer_Contact_No</Name>
+    <Index>3</Index>
+    <Width>158</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Cashless_NonCashLess</Name>
+    <Index>4</Index>
+    <Width>173</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Name_Of_Insurance_Company_Self_By_Customer</Name>
+    <Index>5</Index>
+    <Width>316</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Insurance_Policy_Number</Name>
+    <Index>6</Index>
+    <Width>177</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Claim_Registration_Date</Name>
+    <Index>7</Index>
+    <Width>171</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Claim_Number</Name>
+    <Index>8</Index>
+    <Width>116</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Surveyor_Name_if_thru_Insurance</Name>
+    <Index>9</Index>
+    <Width>222</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Repair_Order_RO_No</Name>
+    <Index>10</Index>
+    <Width>154</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>RO_Date</Name>
+    <Index>11</Index>
+    <Width>213</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Promised_Date</Name>
+    <Index>12</Index>
+    <Width>191</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Service_Advisor_Name</Name>
+    <Index>13</Index>
+    <Width>159</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Estimate_Date</Name>
+    <Index>14</Index>
+    <Width>195</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Estimated_Parts</Name>
+    <Index>15</Index>
+    <Width>123</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Estimated_Labour</Name>
+    <Index>16</Index>
+    <Width>133</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>No_Of_Panels_To_Be_Repaired</Name>
+    <Index>17</Index>
+    <Width>213</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Type_Of_Repair</Name>
+    <Index>18</Index>
+    <Width>120</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Actual_Vehicle_Ready_Date</Name>
+    <Index>19</Index>
+    <Width>186</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Invoice_Date</Name>
+    <Index>20</Index>
+    <Width>177</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Invoice_No</Name>
+    <Index>21</Index>
+    <Width>92</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Invoiced_Parts</Name>
+    <Index>22</Index>
+    <Width>112</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Invoiced_Labour</Name>
+    <Index>23</Index>
+    <Width>122</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Liability_Amount_Paid_By_Ins</Name>
+    <Index>24</Index>
+    <Width>197</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Depriciation_Paid_By_Customer</Name>
+    <Index>25</Index>
+    <Width>211</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Removal_Mechanical_And_Accessories_Start_Date</Name>
+    <Index>26</Index>
+    <Width>317</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Refitting_And_Mechanical_Job_End_Date</Name>
+    <Index>27</Index>
+    <Width>262</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Re_Survey_Final_Inspection_Date</Name>
+    <Index>28</Index>
+    <Width>221</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Date_Of_Receipt_Of_Insurance_Liability_Letter</Name>
+    <Index>29</Index>
+    <Width>292</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Remarks</Name>
+    <Index>30</Index>
+    <Width>96</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Estimated_Repair_Time_In_Days</Name>
+    <Index>31</Index>
+    <Width>218</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+  <Column>
+    <Name>Actual_Repair_Time_Taked_In_Days</Name>
+    <Index>32</Index>
+    <Width>236</Width>
+    <Visible>True</Visible>
+    <AggregateFunction />
+  </Column>
+</GridSave>

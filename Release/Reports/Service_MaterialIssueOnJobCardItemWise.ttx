@@ -1,0 +1,20 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocId	string	255	D1 SMISS 2013       4	
+V_Date	date	15/Apr/2013 12:00:00 AM	
+SaleToPartyAdd1	string	255		
+SaleToPartyAdd2	string	255		
+SaleToPartyMobile	string	255		
+ReferenceNo	string	255	13-0001	
+Remarks	string	255		
+RegistrationNo	string	255	UP78-343	
+ModelDesc	string	255	Splender Plus	
+ItemDesc	string	255	Break Shu	
+Rate	number	500	
+NetAmount	number	500	
+Qty	number	1	
+Unit	string	255	Pcs	
+JobCardNo	string	255	13-0001	
+IssueToEmployee	string	255	Sonu {E0001}	

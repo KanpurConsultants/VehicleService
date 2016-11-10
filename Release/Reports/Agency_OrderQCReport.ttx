@@ -1,0 +1,32 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocID	string	255	D1   SQC 2012      12	
+V_Type	string	255	SQC	
+V_Date	date	16/Aug/2012 12:00:00 AM	
+Buyer	string	255	D100000002	
+SaleToPartyCode	string	255	SCI	
+ReferenceNo	string	255	1	
+Remarks	string	255		
+EntryBy	string	255	RAJESH	
+EntryDate	date	14/Feb/2013 1:29:00 PM	
+ItemDesc	string	255	ATH5000-268	
+ItemGroupDesc	string	255	Hand Tufted	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+Status	string	255	Active	
+QcQty	number	3	
+Unit	string	255	Pcs	
+TotalQcMeasure	number	60	
+MeasureUnit	string	255	Sq.Feet	
+Supplier_Code	string	255	Pathak	
+SaleOrderRefNo	string	255	10492	
+OrderQty	number	3	
+TotalOrderMeasure	number	60	
+SaleQcReqRefNo	string	255	2	
+CheckedQty	number	3	
+TotalCheckedMeasure	number	60	
+PassedQty	number	3	
+TotalPassedMeasure	number	60	

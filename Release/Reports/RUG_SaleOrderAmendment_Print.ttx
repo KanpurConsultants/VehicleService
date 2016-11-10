@@ -1,0 +1,65 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SOAMD 2011       1	
+VoucherNo	string	255	SOAMD - 1	
+V_Type	string	255	SOAMD	
+V_Prefix	string	255	2011	
+V_Date	date	24/Sep/2012 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+SaleToParty	string	255	D100000002	
+SaleToPartyName	string	255	Surya Carpet Inc.	
+SaleToPartyAdd1	string	255		
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255		
+SaleToPartyCityName	string	255		
+SaleToPartyState	string	255		
+SaleToPartyCountry	string	255		
+PartyOrderNo	string	255		
+PriceMode	string	255		
+SalesTaxGroupParty	string	255		
+Mobile	string	255	877-275-7847	
+EMail	string	255	info@surya.com	
+Status	string	255		
+Currency	string	255		
+TermsAndConditions	string	255		
+Remarks	string	255		
+TotalQty	number	53	
+TotalMeasure	number	1369.642	
+EntryBy	string	255	SUPER	
+EntryDate	date	22/Jan/2013 10:09:00 AM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+UID	string	255		
+SR	number	1	
+TotalAmount	number	6595.23	
+IsDeleted	boolean		
+Item	string	255	D10168	
+Qty	number	4	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	19.25	
+MeasureUnit	string	255	Sq.Feet	
+LineTotalMeasure	number	77	
+Rate	number	4.8	
+Amount	number	369.6	
+ItemDesc	string	255	HAZ6000-3656	
+SiteName	string	255	SURYA CARPET INC.	
+Specification	string	255		
+ChallanQty	number	0	
+SaleToPartyTinNo	string	255		
+SaleOrderManualNo	string	255	10399	
+ReferenceNo	string	255	1	
+H_Gross_Amount	number	6595.23	
+H_Freight_Per	number	0	
+H_Freight	number	0	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	0	
+H_Net_Amount	number	6595.23	
+H_Landed_Value	number	6595.23	

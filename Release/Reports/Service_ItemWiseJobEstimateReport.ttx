@@ -1,0 +1,30 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocId	string	255	D1 SQUOT 2013       4	
+V_Date	date	06/May/2013 12:00:00 AM	
+SaleToPartyName	string	255	Shammi Kapoor	
+SaleToPartyAdd1	string	255	Bandra	
+SaleToPartyAdd2	string	255		
+SaleToPartyCityName	string	255		
+SaleToPartyMobile	string	255	934597345	
+ReferenceNo	string	255	13-0001	
+Remarks	string	255		
+RegistrationNo	string	255	UP78-343	
+ModelDesc	string	255	Splender Plus	
+ItemDesc	string	255	0 RING 243	
+Rate	number	4	
+Gross_Amount	number	16	
+Sales_Tax_Taxable_Amt	number	16	
+Vat	number	2	
+Sat	number	0.24	
+Discount	number	0	
+Other_Charges	number	0	
+Net_Amount	number	18.48	
+Round_Off	number	0.24	
+Landed_Value	number	16	
+Qty	number	4	
+Unit	string	255	NOS	
+JobCardNo	string	255	13-0001	
+Voucher_Type_Desc	string	255	Service Quotation	

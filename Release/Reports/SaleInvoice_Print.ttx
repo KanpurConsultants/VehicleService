@@ -1,0 +1,138 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SSINV 2013      14	
+V_Date	date	07/May/2013 12:00:00 AM	
+ReferenceNo	string	255	13-0003	
+Godown	string	255	D10001	
+SaleToParty	string	255		
+SaleToPartyName	string	255	OWNER 3	
+SaleToPartyCity	string	255	D10012	
+SaleToPartyMobile	string	255	12323232323	
+SaleToPartyTinNo	string	255		
+SaleToPartyCstNo	string	255		
+SalesTaxGroupParty	string	255	Local	
+Remarks	string	255		
+SaleToPartyAdd1	string	255	ADD1	
+SaleToPartyAdd2	string	255	ADD2	
+BillToParty	string	255	CASH	
+Service_JobCard	string	255	D1 JCARD 2013      14	
+DocId1	string	255	D1 SSINV 2013      14	
+Sr	number	1	
+SaleOrder	string	255		
+SaleOrderSr	number		
+SaleChallan	string	255	D1 SLDON 2013       2	
+SaleChallanSr	number	1	
+Item	string	255	D10006	
+Specification	string	255		
+SalesTaxGroupItem	string	255		
+DocQty	number		
+Qty	number	1	
+Unit	string	255	Pcs	
+MeasurePerPcs	number		
+MeasureUnit	string	255		
+TotalDocMeasure	number		
+TotalMeasure	number		
+Rate	number	200	
+Amount	number	200	
+ReferenceDocId	string	255		
+LotNo	string	255		
+UID	string	255		
+Remark	string	255		
+BillingType	string	255		
+Item_UID	string	255		
+ItemInvoiceGroup	string	255		
+DeliveryMeasure	string	255		
+DeliveryMeasurePerPcs	number		
+TotalDeliveryMeasure	number		
+Freight_Per	number		
+Freight	number		
+DeliveryMeasureMultiplier	number		
+RateType	string	255		
+SaleInvoice	string	255	D1 SSINV 2013      14	
+SaleInvoiceSr	number	1	
+Supplier	string	255		
+RatePerQty	number		
+RatePerMeasure	number		
+Size	string	255		
+DontPostInStock	boolean	False	
+BillToPartyName	string	255	CASH A/C	
+GodownDesc	string	255	Main Godown	
+ItemDesc	string	255	Greesing`	
+ItemManualCode	string	255	Greesing`	
+CustomerId	string	255		
+OwnerName	string	255	OWNER 3	
+OwnerAdd1	string	255	ADD1	
+OwnerAdd2	string	255	ADD2	
+OwnerCity	string	255	D10012	
+OwnerMobile	string	255	12323232323	
+OwnerCityName	string	255	Varanasi	
+SoldByName	string	255		
+SoldDate	date		
+ServiceAdvisorMobile	string	255		
+KeyNo	string	255		
+VehicleUserName	string	255		
+Milage	number	0	
+JobCardDate	date	02/May/2013 11:02:00 PM	
+JobCardNo	string	255	13-0004	
+RegistrationNo	string	255	UP78 - AG34343	
+Milage1	number	0	
+ChassisNo	string	255	CHASIS1	
+EngineNo	string	255	S1	
+ModelDesc	string	255	CD Down	
+ServiceAdvisorName	string	255		
+Service_TypeDesc	string	255		
+GateInOutNo	string	255		
+GateInOutDate	date		
+PayMode	string	255	Cash	
+ItemType	string	255	Labour	
+PartAmount	number		
+LabourCharge	number	200	
+H_Gross_Amount	number	310	
+H_Discount_Pre_Tax_Per	number	0	
+H_Discount_Pre_Tax	number	0	
+H_Other_Additions_Pre_Tax_Per	number	0	
+H_Other_Additions_Pre_Tax	number	0	
+H_Sales_Tax_Taxable_Amt	number	96	
+H_Vat_Per	number	12.5	
+H_Vat	number	12.06	
+H_Sat_Per	number	1	
+H_Sat	number	0.96	
+H_Service_Tax_Taxable_Amt	number	214	
+H_Service_Tax_Per	number	12	
+H_Service_Tax	number	25.68	
+H_Service_Tax_ECess_Per	number	2	
+H_Service_Tax_ECess	number	0.51	
+H_Service_Tax_HECess_Per	number	1	
+H_Service_Tax_HECess	number	0.25	
+H_Total_Service_Tax	number	26.44	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	1.02	
+H_Net_Amount	number	350.48	
+H_Landed_Value	number	310	
+L_Gross_Amount	number	200	
+L_Discount_Pre_Tax_Per	number	0	
+L_Discount_Pre_Tax	number	0	
+L_Other_Additions_Pre_Tax_Per	number	0	
+L_Other_Additions_Pre_Tax	number	0	
+L_Sales_Tax_Taxable_Amt	number	0	
+L_Vat_Per	number	12.5	
+L_Vat	number	0	
+L_Sat_Per	number	1	
+L_Sat	number	0	
+L_Service_Tax_Taxable_Amt	number	200	
+L_Service_Tax_Per	number	12	
+L_Service_Tax	number	24	
+L_Service_Tax_ECess_Per	number	2	
+L_Service_Tax_ECess	number	0.48	
+L_Service_Tax_HECess_Per	number	1	
+L_Service_Tax_HECess	number	0.24	
+L_Total_Service_Tax	number	24.72	
+L_Discount_Per	number	0	
+L_Discount	number	0	
+L_Other_Charges_Per	number	0	
+L_Other_Charges	number	0	
+L_Round_Off	number	0	
+L_Net_Amount	number	224.72	
+L_Landed_Value	number	200	

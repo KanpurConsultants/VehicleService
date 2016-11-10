@@ -1,0 +1,3 @@
+; Field definition file for table: ADORecordset
+Description	string	255	Break Problem	
+Specification	string	255	Na	

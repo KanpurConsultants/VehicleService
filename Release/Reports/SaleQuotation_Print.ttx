@@ -1,0 +1,78 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SQUOT 2012       3	
+V_Type	string	255	SQUOT	
+V_Prefix	string	255	2012	
+V_Date	date	20/Nov/2012 12:00:00 AM	
+V_No	long	3	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+Party	string	255		
+Currency	string	255	Rs.	
+Structure	string	255	EBILL	
+BillingType	string	255		
+PartyEnquiryNo	string	255		
+PartyEnquiryDate	date		
+TermsAndConditions	string	255		
+Remarks	string	255		
+TotalQty	number	137	
+TotalMeasure	number	308.25	
+TotalAmount	number	118230	
+NetAmount	number		
+PostingGroupSalesTaxParty	string	255		
+EntryBy	string	255	SUPER	
+EntryDate	date	20/Nov/2012 5:18:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+PriceMode	string	255	C.I.F.	
+ReferenceNo	string	255	1	
+Agent	string	255		
+SaleToParty	string	255	D100000003	
+SaleToPartyName	string	255	Abhay Sinha	
+SaleToPartyAdd1	string	255	Gosia  	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10001	
+SaleToPartyMobile	string	255	956456405	
+Supplier	string	255		
+CustomFields	string	255	Sale	
+SalesTaxGroupParty	string	255	Central	
+PartyDocNo	string	255		
+PartyDocDate	date		
+TotalDeliveryMeasure	number	308.25	
+SaleToPartyCityName	string	255	Bhadohi	
+Sr	number	1	
+Vendor	string	255		
+Item	string	255	D10006	
+Qty	number	12	
+Unit	string	255	KG	
+MeasurePerPcs	number	2.25	
+MeasureUnit	string	255	Sq.Feet	
+TotalMeasure1	number	27	
+Rate	number	2000	
+Amount	number	24000	
+NetAmount1	number		
+PostingGroupSalesTaxItem	string	255		
+OrdQty	number		
+OrdMeasure	number		
+DispatchQty	number		
+DispatchMeasure	number		
+UID1	string	255		
+Remarks1	string	255		
+SaleEnquiry	string	255		
+Supplier1	string	255		
+Specification	string	255		
+DeliveryMeasure	string	255	Sq.Feet	
+SalesTaxGroupItem	string	255	General	
+DeliveryMeasureMultiplier	number	1	
+TotalDeliveryMeasure1	number	27	
+BillingType1	string	255		
+ItemDesc	string	255	Design1-1616	
+SaleEnquiryRefNo	string	255		
+AgentName	string	255		
+SupplierName	string	255		

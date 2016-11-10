@@ -1,0 +1,112 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1    SO 2012       9	
+V_Type	string	255	SO	
+V_Prefix	string	255	2012	
+V_Date	date	20/Nov/2012 12:00:00 AM	
+V_No	long	9	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+SaleToParty	string	255	D100000003	
+SaleToPartyName	string	255	Abhay Sinha	
+SaleToPartyAdd1	string	255	Gosia  	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10001	
+SaleToPartyCityName	string	255	Bhadohi	
+SaleToPartyState	string	255		
+SaleToPartyCountry	string	255		
+ShipToParty	string	255		
+ShipToPartyName	string	255		
+ShipToPartyAdd1	string	255		
+ShipToPartyAdd2	string	255		
+ShipToPartyCity	string	255		
+ShipToPartyCityName	string	255		
+ShipToPartyState	string	255		
+ShipToPartyCountry	string	255		
+Currency	string	255	Rs.	
+SalesTaxGroupParty	string	255	Central	
+Structure	string	255	EBILL	
+BillingType	string	255		
+ReferenceNo	string	255	1	
+PartyOrderNo	string	255	1	
+PartyOrderDate	date	20/Nov/2012 12:00:00 AM	
+PartyDeliveryDate	date	30/Nov/2012 12:00:00 AM	
+PartyDeliveryTime	string	255		
+PartyOrderCancelDate	date		
+TermsAndConditions	string	255		
+Remarks	string	255		
+TotalQty	number	80	
+TotalMeasure	number	180	
+StockTotalMeasure	number	180	
+TotalAmount	number	340000	
+SaleOrder	string	255		
+EntryBy	string	255	SUPER	
+EntryDate	date	26/Nov/2012 4:14:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+DestinationPort	string	255		
+FinalPlaceOfDelivery	string	255		
+PreCarriageBy	string	255		
+PlaceOfReceipt	string	255		
+ShipmentThrough	string	255		
+BankAcNoBuyer	string	255		
+BankNameBuyer	string	255		
+BankAddressBuyer	string	255		
+PriceMode	string	255		
+Agent	string	255	D100000005	
+CustomFields	string	255		
+Supplier	string	255		
+SaleToPartyMobile	string	255	956456405	
+ReferencePartyDocumentNo	string	255	1	
+ReferencePartyDocumentDate	date	01/Nov/2012 12:00:00 AM	
+OrderType	string	255	Sale Order	
+ReferenceParty	string	255	D100000003	
+DocId1	string	255	D1    SO 2012       9	
+Sr	number	1	
+Vendor	string	255		
+Item	string	255	D10006	
+Specification	string	255		
+PartySKU	string	255	SKU 1	
+PartyUPC	string	255	Upc 1	
+SalesTaxGroupItem	string	255	General	
+Qty	number	30	
+Unit	string	255	KG	
+MeasurePerPcs	number	2.25	
+MeasureUnit	string	255	Sq.Feet	
+TotalMeasure1	number	67.5	
+SaleOrder1	string	255		
+BillingType1	string	255		
+StockMeasurePerPcs	number		
+StockTotalMeasure1	number		
+Rate	number	3000	
+Amount	number	90000	
+ShippedQty	number		
+ShippedMeasure	number		
+ProdOrdQty	number		
+ProdOrdMeasure	number		
+ProdPlanQty	number		
+ProdPlanMeasure	number		
+PurchQty	number		
+PurchMeasure	number		
+ProdIssQty	number		
+ProdIssMeasure	number		
+ProdRecQty	number		
+ProdRecMeasure	number		
+Priority	number		
+DeliveryOrderQty	number		
+DeliveryOrderMeasure	number		
+UID1	string	255		
+DeliveryMeasure	string	255	Sq.Feet	
+DeliveryMeasurePerPcs	number		
+TotalDeliveryMeasure	number	67.5	
+Supplier1	string	255		
+DeliveryMeasureMultiplier	number	1	
+AgentName	string	255	Anil Jaisawal	
+SupplierName	string	255		
+ItemDesc	string	255	Design1-1616	

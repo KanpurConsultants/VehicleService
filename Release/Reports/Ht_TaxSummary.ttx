@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+V_Date	date	18/Oct/2012 12:00:00 AM	
+NetAmt	number	39620	
+VatAmt	number		
+SatAmt	number		

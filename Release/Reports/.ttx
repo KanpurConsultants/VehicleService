@@ -1,0 +1,14 @@
+; Field definition file for table: ADORecordset
+SaleOrderDate	date	20/Mar/2012 12:00:00 AM	
+ItemDesc	string	255	JS220-8106	
+Qty	number	60	
+Unit	string	255	Pcs	
+CancelQty	number	0	
+SaleChallanNo	string	255		
+SaleChallanDate	date		
+ChallanQty	number	0	
+SupplierCode	string	255	Babu	
+DocId	string	255	D1    SO 2011       1	
+Sr	number	1	
+SaleOrderRefNo	string	255	SO-238	
+PartyDeliveryDate	date	29/Mar/2012 12:00:00 AM	

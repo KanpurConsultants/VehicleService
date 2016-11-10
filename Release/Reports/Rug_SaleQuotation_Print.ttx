@@ -1,0 +1,89 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SRCON 2011       1	
+V_Type	string	255	SRCON	
+V_Prefix	string	255	2011	
+V_Date	date	01/Apr/2012 12:00:00 AM	
+V_No	long	1	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+Party	string	255		
+Currency	string	255	$	
+Structure	string	255	EBILL	
+BillingType	string	255		
+PartyEnquiryNo	string	255		
+PartyEnquiryDate	date		
+TermsAndConditions	string	255		
+Remarks	string	255	
+	
+TotalQty	number	10	
+TotalMeasure	number	496	
+TotalAmount	number	16	
+NetAmount	number		
+PostingGroupSalesTaxParty	string	255		
+EntryBy	string	255	SUPER	
+EntryDate	date	03/Jan/2013 8:01:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+PriceMode	string	255		
+SaleQuotationRefNo	string	255	SRCON-1	
+Agent	string	255		
+SaleToParty	string	255	D100000002	
+SaleToPartyName	string	255	Surya Carpet Inc.	
+SaleToPartyAdd1	string	255	.  	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10003	
+SaleToPartyMobile	string	255		
+Supplier	string	255		
+CustomFields	string	255		
+SalesTaxGroupParty	string	255	Export	
+PartyDocNo	string	255		
+PartyDocDate	date		
+TotalDeliveryMeasure	number	496	
+SaleToPartyCityName	string	255	CALHOUN	
+Sr	number	1	
+Vendor	string	255		
+Item	string	255	D12074	
+Qty	number	1	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	20	
+MeasureUnit	string	255	Sq.Feet	
+TotalMeasure1	number	20	
+Rate	number	1.6	
+Amount	number	1.6	
+NetAmount1	number		
+PostingGroupSalesTaxItem	string	255		
+OrdQty	number		
+OrdMeasure	number		
+DispatchQty	number		
+DispatchMeasure	number		
+UID1	string	255		
+Remarks1	string	255		
+SaleEnquiry	string	255		
+Supplier1	string	255	D100000032	
+Specification	string	255		
+DeliveryMeasure	string	255	Sq.Feet	
+SalesTaxGroupItem	string	255	General	
+DeliveryMeasureMultiplier	number	1	
+TotalDeliveryMeasure1	number	20	
+BillingType1	string	255		
+ItemDesc	string	255	ATH5000-268	
+SaleEnquiryRefNo	string	255		
+AgentName	string	255		
+SupplierName	string	255	Pathak	
+H_Gross_Amount	number	16	
+H_Freight_Per	number	0	
+H_Freight	number	0	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	0	
+H_Net_Amount	number	16	
+H_Landed_Value	number	16	

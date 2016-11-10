@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+JobCardNo	string	255	13-0003	
+JobCardDate	date	02/May/2013 10:52:00 PM	
+Milage	number	0	
+Service_TypeDesc	string	255	Major Service	

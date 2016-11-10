@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+CompanyName	string	255	MOSARAM ENTERPRISES LIMITED	
+Add1	string	255	LAKHIMPUR KHERI-WORKSHOP	
+Add2	string	255		
+Add3	string	255		
+City	string	255	LAKHIMPUR	
+Phone	string	255	-	
+Fax	string	255	-	
+Pin	string	255	221301	
+Email	string	255	-	
+CSTNo	string	255	-	
+TIN	string	255		

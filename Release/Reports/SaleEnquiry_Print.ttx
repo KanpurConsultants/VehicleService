@@ -1,0 +1,49 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1  SENQ 2012       6	
+V_Type	string	255	SENQ	
+V_Prefix	string	255	2012	
+V_Date	date	05/Nov/2012 12:00:00 AM	
+V_No	long	6	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+ReferenceNo	string	255	1	
+SaleToParty	string	255	D100000003	
+SaleToPartyName	string	255	Abhay Sinha	
+SaleToPartyAdd1	string	255	Gosia	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10001	
+SaleToPartyMobile	string	255	956456405	
+LastDate	date	21/Nov/2012 12:00:00 AM	
+Remarks	string	255		
+TotalQty	number	102	
+TotalMeasure	number	229.5	
+TotalAmount	number		
+EntryBy	string	255	SUPER	
+EntryDate	date	06/Nov/2012 5:06:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+Agent	string	255	D100000005	
+DeliveryMeasure	string	255		
+DeliveryMeasurePerPcs	number		
+TotalDeliveryMeasure	number		
+DocId1	string	255	D1  SENQ 2012       6	
+Sr	number	1	
+Item	string	255	D10003	
+Specification	string	255		
+Qty	number	34	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	2.25	
+MeasureUnit	string	255	Sq.Feet	
+TotalMeasure1	number	76.5	
+Remark	string	255		
+UID1	string	255		
+SaleToPartyCityName	string	255	Bhadohi	
+AgentName	string	255	Anil Jaisawal	
+ItemDesc	string	255	Sample 1	

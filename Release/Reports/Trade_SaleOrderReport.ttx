@@ -1,0 +1,69 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocID	string	255	D1    SO 2012     262	
+LineDocId	string	255	D1    SO 2012     262	
+V_Type	string	255	SO	
+V_Date	date	10/May/2012 12:00:00 AM	
+LineV_Date	date	10/May/2012 12:00:00 AM	
+LineV_Type	string	255	SO	
+LineReferenceNo	string	255	10491	
+SaleToParty	string	255	D100000002	
+SaleToPartyCode	string	255	SCI	
+SaleToPartyName	string	255	Surya Carpet Inc.,CALHOUN, GA-30701	
+SaleToPartyAdd1	string	255	140 Executive Drive  	
+SaleToPartyAdd2	string	255		
+SaleToPartyCity	string	255	D10003	
+SaleToPartyCityName	string	255	CALHOUN, GA-30701	
+SaleToPartyState	string	255		
+SaleToPartyCountry	string	255		
+SaleToPartyMobile	string	255	877-275-7847	
+ShipToParty	string	255		
+ShipToPartyName	string	255		
+ShipToPartyAdd1	string	255		
+ShipToPartyAdd2	string	255		
+ShipToPartyCity	string	255		
+ShipToPartyCityName	string	255		
+ShipToPartyState	string	255		
+ShipToPartyCountry	string	255		
+Currency	string	255	$	
+Currency_Description	string	255	USD	
+SalesTaxGroupParty	string	255	Export	
+ReferenceNo	string	255	10491	
+PartyOrderNo	string	255	10491	
+PartyOrderDate	date	10/May/2012 12:00:00 AM	
+PartyDeliveryDate	date	25/Jul/2012 12:00:00 AM	
+PartyDeliveryTime	string	255		
+TermsAndConditions	string	255		
+Remarks	string	255	
+	
+EntryBy	string	255	SUPER	
+EntryDate	date	14/Feb/2013 11:25:00 AM	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+Status	string	255	Active	
+ShipmentThrough	string	255		
+PriceMode	string	255		
+Agent	string	255		
+ReferencePartyDocumentNo	string	255	10491	
+ReferencePartyDocumentDate	date	10/May/2012 12:00:00 AM	
+OrderType	string	255		
+ReferenceParty	string	255	D100000002	
+ReferencePartyName	string	255	Surya Carpet Inc.	
+ItemDesc	string	255	NY5217-23	
+ItemGroupDesc	string	255	Hand Tufted	
+Rate	number	1.6	
+Gross_Amount	number	180	
+Freight	number	0	
+Discount	number	0	
+Other_Charges	number	0	
+Net_Amount	number	180	
+Round_Off	number	0	
+Landed_Value	number	180	
+Qty	number	30	
+Unit	string	255	Pcs	
+TotalMeasure	number	180	
+MeasureUnit	string	255	Sq.Feet	
+Supplier_Code	string	255	Pathak	

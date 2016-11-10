@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+SaleOrderDate	date	20/Jul/2011 12:00:00 AM	
+ItemDesc	string	255	AIN1000-1616	
+Qty	number	60	
+Unit	string	255	Pcs	
+TotalMeasure	number	135	
+MeasureUnit	string	255	Sq.Feet	
+SaleChallanNo	string	255	SI-NCP/678/2012	
+SaleChallanDate	date	30/Mar/2012 12:00:00 AM	
+ChallanQty	number	20	
+ChallanMeasure	number	45	
+Party_Code	string	255	SCI	
+SupplierCode	string	255	NCP	
+DocId	string	255	D1    SO 2011      28	
+Sr	number	1	
+V_Type	string	255	SO	
+SaleOrderRefNo	string	255	10256	
+PartyOrderNo	string	255	10256	
+PartyDeliveryDate	date	28/Feb/2012 12:00:00 AM	
+LineDocIdSr	string	255	D1    SO 2011      281	

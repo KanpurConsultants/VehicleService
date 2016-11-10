@@ -1,0 +1,47 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SQREQ 2012      18	
+V_Type	string	255	SQREQ	
+V_Prefix	string	255	2012	
+V_Date	date	23/Jan/2013 12:00:00 AM	
+V_No	long	18	
+Div_Code	string	255	D	
+Site_Code	string	255	1	
+Department	string	255		
+SaleOrder	string	255		
+Remarks	string	255		
+TotalOrderQty	number	355	
+TotalQty	number	355	
+TotalOrderMeasure	number	3265	
+TotalMeasure	number	3265	
+EntryBy	string	255	SUPER	
+EntryDate	date	23/Jan/2013 1:39:00 PM	
+EntryType	string	255	Add	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+IsDeleted	boolean		
+Status	string	255	Active	
+UID	string	255		
+Buyer	string	255	D100000002	
+Supplier	string	255	D100000001	
+ReferenceNo	string	255	1	
+DocId1	string	255	D1 SQREQ 2012      18	
+Sr	number	1	
+SaleOrder1	string	255	D1    SO 2012     223	
+Item	string	255	D12718	
+OrderQty	number	300	
+Qty	number	300	
+Unit	string	255	Pcs	
+MeasurePerPcs	number	2.25	
+MeasureUnit	string	255	Sq.Feet	
+TotalLineOrderMeasure	number	675	
+TotalLineMeasure	number	675	
+LineRemark	string	255		
+UID1	string	255		
+SiteName	string	255	SURYA CARPET INC.	
+BuyerName	string	255	Surya Carpet Inc.	
+SupplierName	string	255	Ambadi Enterprises Ltd.	
+SaleOrderRefNo	string	255	SO-10562	
+ItemDesc	string	255	AM001-1818	

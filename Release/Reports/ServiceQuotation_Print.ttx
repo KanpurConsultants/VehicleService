@@ -1,0 +1,130 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 SQUOT 2013       7	
+V_Date	date	07/May/2013 12:00:00 AM	
+ReferenceNo	string	255	13-0004	
+SaleToParty	string	255		
+SaleToPartyName	string	255	OWNER 3	
+SaleToPartyAdd1	string	255	ADD1	
+SaleToPartyAdd2	string	255	ADD2	
+SaleToPartyCity	string	255	D10012	
+SaleToPartyMobile	string	255	12323232323	
+SalesTaxGroupParty	string	255	Local	
+PartyDocNo	string	255		
+PartyDocDate	date		
+TotalDeliveryMeasure	number		
+SaleToPartyCityName	string	255		
+DocId1	string	255	D1 SQUOT 2013       7	
+Sr	number	1	
+Vendor	string	255		
+Item	string	255	D100008761	
+Qty	number	1	
+Unit	string	255	Each	
+MeasurePerPcs	number		
+MeasureUnit	string	255		
+TotalMeasure	number		
+Rate	number	1	
+Amount	number	1	
+NetAmount	number		
+PostingGroupSalesTaxItem	string	255		
+OrdQty	number		
+OrdMeasure	number		
+DispatchQty	number		
+DispatchMeasure	number		
+UID	string	255		
+Remarks	string	255		
+SaleEnquiry	string	255		
+Supplier	string	255		
+Specification	string	255		
+DeliveryMeasure	string	255		
+SalesTaxGroupItem	string	255	General	
+DeliveryMeasureMultiplier	number		
+TotalDeliveryMeasure1	number		
+BillingType	string	255		
+RateType	string	255		
+SaleQuotation	string	255	D1 SQUOT 2013       7	
+SaleQuotationSr	number	1	
+Remark	string	255		
+ServiceTaxYN	string	255		
+ServiceTaxOnModelYN	string	255	Y	
+ItemDesc	string	255	OPTION DRG B5.9-230G BS3 CNG-AUTOTRAN	
+ItemManualCode	string	255	207601000266	
+CustomerId	string	255		
+OwnerName	string	255	OWNER 3	
+OwnerAdd1	string	255	ADD1	
+OwnerAdd2	string	255	ADD2	
+OwnerCity	string	255	D10012	
+OwnerMobile	string	255	12323232323	
+OwnerCityName	string	255	Varanasi	
+SoldByName	string	255		
+SoldDate	date		
+ServiceAdvisorMobile	string	255		
+KeyNo	string	255		
+VehicleUserName	string	255		
+Milage	number	0	
+JobCardDate	date	02/May/2013 11:02:00 PM	
+JobCardNo	string	255	13-0004	
+RegistrationNo	string	255	UP78 - AG34343	
+Milage1	number	0	
+ChassisNo	string	255	CHASIS1	
+EngineNo	string	255	S1	
+ModelDesc	string	255	CD Down	
+ServiceAdvisorName	string	255		
+Service_TypeDesc	string	255		
+ItemType	string	255	Parts	
+PartAmount	number	1	
+LabourCharge	number		
+InsuranceCompanyName	string	255		
+PolicyNo	string	255		
+H_Gross_Amount	number	445	
+H_Discount_Pre_Tax_Per	number	0	
+H_Discount_Pre_Tax	number	0	
+H_Other_Additions_Pre_Tax_Per	number	0	
+H_Other_Additions_Pre_Tax	number	0	
+H_Sales_Tax_Taxable_Amt	number	198	
+H_Vat_Per	number	0	
+H_Vat	number	24.77	
+H_Sat_Per	number	0	
+H_Sat	number	1.98	
+H_Service_Tax_Taxable_Amt	number	247	
+H_Service_Tax_Per	number	12	
+H_Service_Tax	number	29.64	
+H_Service_Tax_ECess_Per	number	2	
+H_Service_Tax_ECess	number	0.6	
+H_Service_Tax_HECess_Per	number	1	
+H_Service_Tax_HECess	number	0.3	
+H_Total_Service_Tax	number	30.54	
+H_Discount_Per	number	0	
+H_Discount	number	0	
+H_Other_Charges_Per	number	0	
+H_Other_Charges	number	0	
+H_Round_Off	number	-0.25	
+H_Net_Amount	number	502.04	
+H_Landed_Value	number	445	
+L_Gross_Amount	number	1	
+L_Discount_Pre_Tax_Per	number	0	
+L_Discount_Pre_Tax	number	0	
+L_Other_Additions_Pre_Tax_Per	number	0	
+L_Other_Additions_Pre_Tax	number	0	
+L_Sales_Tax_Taxable_Amt	number	1	
+L_Vat_Per	number	12.5	
+L_Vat	number	0.13	
+L_Sat_Per	number	1	
+L_Sat	number	0.01	
+L_Service_Tax_Taxable_Amt	number	0	
+L_Service_Tax_Per	number	12	
+L_Service_Tax	number	0	
+L_Service_Tax_ECess_Per	number	2	
+L_Service_Tax_ECess	number	0	
+L_Service_Tax_HECess_Per	number	1	
+L_Service_Tax_HECess	number	0	
+L_Total_Service_Tax	number	0	
+L_Discount_Per	number	0	
+L_Discount	number	0	
+L_Other_Charges_Per	number	0	
+L_Other_Charges	number	0	
+L_Round_Off	number	0.14	
+L_Net_Amount	number	1.28	
+L_Landed_Value	number	1	
+H_FIR_No	string	255	FIR87345	
+H_FIR_Date	date	01/May/2013 12:00:00 AM	
+H_Expiry_Date	date	31/May/2013 12:00:00 AM	

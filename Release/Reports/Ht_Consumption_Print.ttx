@@ -1,0 +1,82 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	M1  CONS 2011       3	
+V_Type	string	255	CONS	
+V_Prefix	string	255	2011	
+V_Date	date	03/Oct/2012 12:00:00 AM	
+V_No	long	3	
+Div_Code	string	255	M	
+Site_Code	string	255	1	
+ManualRefNo	string	255	1	
+OrderBy	string	255		
+SubCode	string	255		
+FromProcess	string	255		
+ToProcess	string	255		
+FromGodown	string	255		
+ToGodown	string	255		
+TotalQty	number	4	
+TotalMeasure	number	0	
+Amount	number		
+Addition	number		
+Deduction	number		
+NetAmount	number		
+Remarks	string	255		
+IsDeleted	boolean		
+EntryBy	string	255	SUPER	
+EntryDate	date	03/Oct/2012 10:20:00 PM	
+EntryType	string	255	Edit	
+EntryStatus	string	255	Open	
+ApproveBy	string	255		
+ApproveDate	date		
+MoveToLog	string	255		
+MoveToLogDate	date		
+Status	string	255	Active	
+UID	string	255		
+ReferenceDocID	string	255		
+Structure	string	255		
+DocID1	string	255	M1  CONS 2011       3	
+Sr	number	1	
+V_Type1	string	255	CONS	
+V_Prefix1	string	255	2011	
+V_Date1	date	03/Oct/2012 12:00:00 AM	
+V_No1	long	3	
+Div_Code1	string	255	M	
+Site_Code1	string	255	1	
+SubCode1	string	255		
+Currency	string	255		
+SalesTaxGroupParty	string	255		
+Structure1	string	255		
+BillingType	string	255		
+Item	string	255	M10035	
+Item_UID	string	255		
+LotNo	string	255		
+ProcessGroup	string	255		
+Godown	string	255		
+Qty_Iss	number	2	
+Qty_Rec	number		
+Unit	string	255	Kg	
+MeasurePerPcs	number	0	
+Measure_Iss	number	0	
+Measure_Rec	number		
+MeasureUnit	string	255		
+Rate	number	0	
+Amount1	number	0	
+Addition1	number		
+Deduction1	number		
+NetAmount1	number		
+LineRemark	string	255		
+Process	string	255		
+Status1	string	255		
+RecId	string	255		
+UID1	string	255		
+FIFORate	number		
+FIFOAmt	number		
+AVGRate	number		
+AVGAmt	number		
+Cost	number		
+Doc_Qty	number		
+ReferenceDocID1	string	255		
+SiteName	string	255	M.G. MARG	
+OrderByName	string	255		
+SubCodeName	string	255		
+ItemDesc	string	255	Aata	
+GodownDesc	string	255		

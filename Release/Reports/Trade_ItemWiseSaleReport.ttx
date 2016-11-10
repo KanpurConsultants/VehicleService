@@ -1,0 +1,30 @@
+; Field definition file for table: ADORecordset
+GrpField	string	255		
+GrpFieldDesc	string	255		
+GrpFieldHead	string	255		
+DocId	string	255	D1 SSINV 2013      12	
+V_Date	date	07/May/2013 12:00:00 AM	
+SaleToPartyName	string	255	Shammi Kapoor,	
+SaleToPartyAdd1	string	255	Bandra	
+SaleToPartyAdd2	string	255		
+SaleToPartyCityName	string	255		
+SaleToPartyMobile	string	255	934597345	
+ReferenceNo	string	255	13-0001	
+Remarks	string	255		
+RegistrationNo	string	255	UP78-343	
+ModelDesc	string	255	Splender Plus	
+ItemDesc	string	255	Break Shu	
+Rate	number	500	
+Gross_Amount	number	500	
+Sales_Tax_Taxable_Amt	number	500	
+Vat	number	62.5	
+Sat	number	5	
+Discount	number	0	
+Other_Charges	number	0	
+Net_Amount	number	567	
+Round_Off	number	-0.5	
+Landed_Value	number	500	
+Qty	number	1	
+Unit	string	255	Pcs	
+JobCardNo	string	255	13-0001	
+BillToAc	string	255	UNITED INDIA INSURANCE {UNITED}	

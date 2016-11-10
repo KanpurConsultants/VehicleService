@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+DocID	string	255	D1 PHSTK 2013       1	
+V_Date	date	30/Apr/2013 12:00:00 AM	
+ManualRefNo	string	255	13-0001	
+Item	string	255	D10002	
+ItemDesc	string	255	Break Shu	
+Item_UIDCode	string	255		
+Item_UIDDesc	string	255		
+Qty	number	23	
+Unit	string	255	Pcs	
+TotalMeasure	number	0	
